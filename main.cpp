@@ -2,6 +2,6 @@
 int main() {
 
 	printf("hello");
-	printf("helloNew");
+	printf("GitHub clone Change");
 	return 0;
 }
